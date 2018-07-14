@@ -1,4 +1,4 @@
-# DayInHistoryEnglish
+# Day In History
 
 Day in History - On this Day is an educational today in history app that helps its users to learn what happened today in history in the remote past. If you have interest in history and want to feel the vibes flowing time, the app will work as your ready made history tool at your fingertips.
 Once you have downloaded the app, you will get to see its user interface and then different tabs for accessing the requisite information. The app will present to its users the significance of the current day in history.
